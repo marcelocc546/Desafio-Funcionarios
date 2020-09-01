@@ -1,2 +1,2 @@
 # Desafio-Funcionarios
-Desafio de programaço disponível em: https://osprogramadores.com/desafios/d05/
+Desafio de programação disponível em: https://osprogramadores.com/desafios/d05/
